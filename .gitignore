@@ -1,0 +1,5 @@
+# ignore svg files
+*.svg
+
+# ignore pdf files
+*.pdf
